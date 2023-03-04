@@ -1,0 +1,7 @@
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Incomparison\Incomparison\bin\Debug\Incomparison.exe.config
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Incomparison\Incomparison\bin\Debug\Incomparison.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Incomparison\Incomparison\bin\Debug\Incomparison.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Incomparison\Incomparison\obj\Debug\Incomparison.csproj.AssemblyReference.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Incomparison\Incomparison\obj\Debug\Incomparison.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Incomparison\Incomparison\obj\Debug\Incomparison.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Incomparison\Incomparison\obj\Debug\Incomparison.pdb
