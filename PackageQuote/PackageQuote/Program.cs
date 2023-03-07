@@ -36,10 +36,20 @@ namespace PackageQuote
             int Width = Convert.ToInt16(strWidth);
             int Height = Convert.ToInt16(strHeight);
             int Length = Convert.ToInt16(strLength);
+            int sumDimensions = Width + Height + Length;
             decimal Quote = Width * Height * Length * Weight / 333;
             
+            if (sumDimensions > 50)
+            {
+                Console.WriteLine("Your package's dimensions exceed the maximum volume. (Press 'Enter' to exit program)");
+                Console.ReadLine();
+                System.Environment.Exit(1);
+            }
+            else
+            {
+                Console.WriteLine("Your estimated total is $" + Quote);
+            }
 
-            Console.WriteLine("Your estimated total is $" + Quote);
             Console.ReadLine();
         }
     }
