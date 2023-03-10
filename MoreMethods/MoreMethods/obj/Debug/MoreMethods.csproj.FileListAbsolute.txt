@@ -1,0 +1,7 @@
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MoreMethods\MoreMethods\bin\Debug\MoreMethods.exe.config
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MoreMethods\MoreMethods\bin\Debug\MoreMethods.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MoreMethods\MoreMethods\bin\Debug\MoreMethods.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MoreMethods\MoreMethods\obj\Debug\MoreMethods.csproj.AssemblyReference.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MoreMethods\MoreMethods\obj\Debug\MoreMethods.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MoreMethods\MoreMethods\obj\Debug\MoreMethods.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MoreMethods\MoreMethods\obj\Debug\MoreMethods.pdb
