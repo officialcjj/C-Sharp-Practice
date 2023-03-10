@@ -9,36 +9,46 @@ namespace MethodsdPractice
     // creates an Object class
     public class Object
     {
-        public int number; // adds integer field to Object
+        public int numberOne; // adds integer field to Object
+        public decimal numberTwo;
+        public string numberThree;
         public string name; // adds string field to Object
         public string quality;
 
         // constructor for Object
-        public Object(string objectName, int objectNumber, string objectQuality)
+        public Object(string objectName, int objectOne, decimal objectTwo, string objectThree, string objectQuality)
         {
             name = objectName;
-            number = objectNumber;
+            numberOne = objectOne;
+            numberTwo = objectTwo;
+            numberThree = objectThree;
             quality = objectQuality;
         }
 
         public static int Addition(Object userObject, int added)
         {
-            added = userObject.number + 10;
-            Console.WriteLine("Your object's number plus ten equals " + added); 
+            Console.WriteLine("Enter your first number as an integer:");
+            userObject.numberOne = Convert.ToInt32(Console.ReadLine());
+            added = userObject.numberOne + 10;
+            Console.WriteLine("Your first number plus ten equals " + added); 
             return added;
         }
 
         public static int Multiplication(Object userObject, int multiplied)
         {
-            multiplied = userObject.number * 10;
-            Console.WriteLine("Your object's number times ten equals " + multiplied);
+            Console.WriteLine("Enter your second number as a decimal:");
+            userObject.numberTwo = Convert.ToDecimal(Console.ReadLine());
+            multiplied = Convert.ToInt32(userObject.numberTwo * 10);
+            Console.WriteLine("Your second number times ten equals " + multiplied);
             return multiplied;
         }
 
         public static int Division(Object userObject, int divided)
         {
-            divided = userObject.number / 4;
-            Console.WriteLine("Your object's number divided by four equals " + divided);
+            Console.WriteLine("Enter your third number as an integer:");
+            userObject.numberThree = Console.ReadLine();
+            divided = Convert.ToInt32(userObject.numberThree) / 4;
+            Console.WriteLine("Your third number divided by four equals " + divided);
             return divided;
         }
 

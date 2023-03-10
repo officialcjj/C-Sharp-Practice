@@ -13,14 +13,12 @@ namespace MethodsdPractice
             // gets user inputs
             Console.WriteLine("Create an object with a name, number, and quality!\nEnter a name:");
             string objectName = Console.ReadLine();
-            Console.WriteLine("Enter an integer:");
-            int objectNumber = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter a quality:");
             string objectQuality = Console.ReadLine();
 
             // creates and describes user object
-            Object userObject = new Object(objectName, objectNumber, objectQuality);
-            Console.WriteLine("You created a " + userObject.name + " with the number " + userObject.number + " and the quality " + userObject.quality);
+            Object userObject = new Object(objectName, 0, 0, "0", objectQuality);
+            Console.WriteLine("You created an object, " + userObject.name + ", with the quality " + userObject.quality);
 
             int added = 0; //initializes variable because static methods don't automatically
             added = Object.Addition(userObject, added); //sends user input and preinitialized variable to method
