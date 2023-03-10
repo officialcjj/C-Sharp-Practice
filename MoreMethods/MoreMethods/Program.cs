@@ -28,6 +28,13 @@ namespace MoreMethods
             Console.WriteLine("Current speed: {0}mph", car.speed);
             Console.WriteLine("Speed in 10 minutes: {0}mph", futureSpeed);
 
+            int addThickness = 0; // adds default value
+            Console.WriteLine("Enter your wheel's diameter in inches:");
+            Wheel wheel = new Wheel(Convert.ToInt32(Console.ReadLine()), addThickness);
+            Console.WriteLine("Enter your tire's thickness in inches:");
+            wheel.thickness = Convert.ToInt32(Console.ReadLine()); //updates thickness from default
+
+            Wheel.Describe(wheel.diameter, wheel.thickness);
             Console.ReadLine();
         }
     }
