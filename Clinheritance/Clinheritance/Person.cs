@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Clinheritance
 {
-    public class Person
+    public abstract class Person
     {
         public string Fname;
         public string Lname;
