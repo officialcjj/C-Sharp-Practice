@@ -15,6 +15,18 @@ namespace Clinheritance
             Lname = AddLname;
             Id = AddId;
         }
+
+        public List<Employee> Employees { get; set; }
+
+        public static bool operator ==(Employee employee, Employee employee1)
+        {
+            return employee.Id == employee1.Id;
+        }
+
+        public static bool operator !=(Employee employee, Employee employee1)
+        {
+            return employee.Id != employee1.Id;
+        }
         public void Quit(Employee employee)
         {
             Environment.Exit(0);
