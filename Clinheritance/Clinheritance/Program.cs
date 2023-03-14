@@ -10,7 +10,14 @@ namespace Clinheritance
             Student student = new Student("Homie", "Jones", 0);
             employee.SayName();
             student.SayName();
-            Console.ReadLine();
+            Console.WriteLine("Exit Program? (Enter 'Yes' to exit program)");
+            string answer = Console.ReadLine();
+            while (answer != "Yes")
+            {
+                Console.WriteLine("Exit Program? (Enter 'Yes' to exit program)");
+                answer = Console.ReadLine();
+            }
+            employee.Quit(employee);
         }
     }
 }

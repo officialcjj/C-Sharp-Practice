@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Clinheritance
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         public int Id;
         public Employee(string AddFname, string AddLname, int AddId)
@@ -14,6 +14,10 @@ namespace Clinheritance
             Fname = AddFname;
             Lname = AddLname;
             Id = AddId;
+        }
+        public void Quit(Employee employee)
+        {
+            Environment.Exit(0);
         }
     }
 }
