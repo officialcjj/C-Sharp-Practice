@@ -10,6 +10,8 @@ namespace Clinheritance
             Student student = new Student("Homie", "Jones", 0);
             employee.SayName();
             student.SayName();
+            IQuittable quittable = new Employee("sample", "sample", -1);
+
             Console.WriteLine("Exit Program? (Enter 'Yes' to exit program)");
             string answer = Console.ReadLine();
             while (answer != "Yes")
@@ -17,7 +19,7 @@ namespace Clinheritance
                 Console.WriteLine("Exit Program? (Enter 'Yes' to exit program)");
                 answer = Console.ReadLine();
             }
-            employee.Quit(employee);
+            quittable.Quit(employee);
         }
     }
 }
