@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Clinheritance
 {
@@ -8,13 +12,45 @@ namespace Clinheritance
         {
 
             Employee<string> employee = new Employee<string>("Sample", "Student", 0, "Not sure why their last name is student but so speaketh the program");
+            employee.SayName();
             Employee<int> employee1 = new Employee<int>("Sample", "Employee", 1, 5);
             Employee<string> amos = new Employee<string>("Amos", "Herringsworth", 0, "Was actually supposed to have ID number 0. Has been around a while.");
-            Student student = new Student("Homie", "Jones", 0);
+            Employee<string> joe1 = new Employee<string>("Joe", "Ma", 2, "");
+            Employee<string> joe2 = new Employee<string>("Joe", "Man", 3, "");
+            Employee<string> joe3 = new Employee<string>("Joe", "Merry", 4, "");
+            Employee<string> joe4 = new Employee<string>("Joe", "Horseman", 5, "");
+            Employee<string> joe5 = new Employee<string>("Joe", "Asclepius", 6, "");
+            Employee<string> joe6 = new Employee<string>("Joe", "Nantucket", 7, "");
+            Employee<string> joe7 = new Employee<string>("Joe", "Joe", 8, "");
+            Employee<string> joe8 = new Employee<string>("Joe", "of the Sky", 9, "");
+            Employee<string> joe9 = new Employee<string>("Joe", "Herringsworth", 10, "Amos's son- He's a good kid");
             IQuittable<string> quitter = new Employee<string>("Quitter", "McQuitprogram", -1, "Why was I created? Just to quit?");
 
-            employee.SayName();
-            student.SayName();
+            List<Employee<string>> employees = new List<Employee<string>>() { employee, amos, joe1, joe2, joe3, joe4, joe5, joe6, joe7, joe8, joe9 };
+            List<Employee<string>> joes = new List<Employee<string>>();
+            foreach (Employee<string> e in employees)
+            {
+                if (e.Fname == "Joe")
+                {
+                    joes.Add(e);
+                }
+            }
+            //foreach (Employee<string> joe in joes)
+            //{
+            //    Console.WriteLine(joe.Fname + " " + joe.Lname);
+            //}
+
+            List<Employee<string>> moreJoes = employees.FindAll(x => x.Fname == "Joe");
+            //foreach (Employee<string> joe in moreJoes)
+            //{
+            //    Console.WriteLine(joe.Fname + " " + joe.Lname);
+            //}
+
+            List<Employee<string>> idList = employees.FindAll(x => x.Id > 5);
+            foreach (Employee<string> e in idList)
+            {
+                Console.WriteLine(e.Fname + " " + e.Lname);
+            }
 
             if (employee.Id == amos.Id)
             {
