@@ -6,28 +6,31 @@ using System.Threading.Tasks;
 
 namespace Clinheritance
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable<T>
     {
+        
         public int Id;
-        public Employee(string AddFname, string AddLname, int AddId)
+        public T Desc;
+        public List<T> Things;
+        public Employee(string AddFname, string AddLname, int AddId, T AddDesc)
         {
             Fname = AddFname;
             Lname = AddLname;
             Id = AddId;
+            Desc = AddDesc;
+            Things = new List<T> {  };
         }
 
-        public List<Employee> Employees { get; set; }
-
-        public static bool operator ==(Employee employee, Employee employee1)
+        public static bool operator ==(Employee<T> employee, Employee<T> employee1)
         {
             return employee.Id == employee1.Id;
         }
 
-        public static bool operator !=(Employee employee, Employee employee1)
+        public static bool operator !=(Employee<T> employee, Employee<T> employee1)
         {
             return employee.Id != employee1.Id;
         }
-        public void Quit(Employee employee)
+        public void Quit(Employee<T> employee)
         {
             Environment.Exit(0);
         }

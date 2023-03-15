@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Clinheritance
 {
-    interface IQuittable
+    interface IQuittable<T>
     {
-        void Quit(Employee employee);
+        void Quit(Employee<T> employee);
     }
 }
