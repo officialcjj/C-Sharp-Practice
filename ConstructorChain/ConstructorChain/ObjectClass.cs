@@ -10,11 +10,11 @@ namespace ConstructorChain
     {
         public string Name;
         public int ID;
-        public ObjectClass()
+        public ObjectClass():this("name")
         {
             //no parameters
         }
-        public ObjectClass(string name)
+        public ObjectClass(string name):this(name, 0)
         {
             Name = name;
         }
