@@ -1,0 +1,7 @@
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\PackageQuote\PackageQuote\bin\Debug\PackageQuote.exe.config
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\PackageQuote\PackageQuote\bin\Debug\PackageQuote.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\PackageQuote\PackageQuote\bin\Debug\PackageQuote.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\PackageQuote\PackageQuote\obj\Debug\PackageQuote.csproj.AssemblyReference.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\PackageQuote\PackageQuote\obj\Debug\PackageQuote.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\PackageQuote\PackageQuote\obj\Debug\PackageQuote.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\PackageQuote\PackageQuote\obj\Debug\PackageQuote.pdb

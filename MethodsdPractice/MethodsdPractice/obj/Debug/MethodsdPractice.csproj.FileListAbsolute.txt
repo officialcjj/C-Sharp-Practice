@@ -1,0 +1,7 @@
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsdPractice\MethodsdPractice\bin\Debug\MethodsdPractice.exe.config
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsdPractice\MethodsdPractice\bin\Debug\MethodsdPractice.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsdPractice\MethodsdPractice\bin\Debug\MethodsdPractice.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsdPractice\MethodsdPractice\obj\Debug\MethodsdPractice.csproj.AssemblyReference.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsdPractice\MethodsdPractice\obj\Debug\MethodsdPractice.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsdPractice\MethodsdPractice\obj\Debug\MethodsdPractice.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsdPractice\MethodsdPractice\obj\Debug\MethodsdPractice.pdb

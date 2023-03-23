@@ -1,0 +1,6 @@
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\myConsoleProject\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\myConsoleProject\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\myConsoleProject\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\myConsoleProject\myConsoleProject.cs\obj\Debug\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\myConsoleProject\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\myConsoleProject\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb

@@ -1,0 +1,16 @@
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\bin\Debug\net5.0\Challenge1.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\bin\Debug\net5.0\Challenge1.deps.json
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\bin\Debug\net5.0\Challenge1.runtimeconfig.json
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\bin\Debug\net5.0\Challenge1.runtimeconfig.dev.json
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\bin\Debug\net5.0\Challenge1.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\bin\Debug\net5.0\ref\Challenge1.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\bin\Debug\net5.0\Challenge1.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.csproj.AssemblyReference.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.AssemblyInfoInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.AssemblyInfo.cs
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\obj\Debug\net5.0\ref\Challenge1.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.genruntimeconfig.cache

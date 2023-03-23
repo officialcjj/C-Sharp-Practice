@@ -1,0 +1,7 @@
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

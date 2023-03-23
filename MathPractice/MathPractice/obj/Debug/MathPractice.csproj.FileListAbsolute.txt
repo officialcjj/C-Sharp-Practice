@@ -1,0 +1,7 @@
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MathPractice\MathPractice\bin\Debug\MathPractice.exe.config
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MathPractice\MathPractice\bin\Debug\MathPractice.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MathPractice\MathPractice\bin\Debug\MathPractice.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MathPractice\MathPractice\obj\Debug\MathPractice.csproj.AssemblyReference.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MathPractice\MathPractice\obj\Debug\MathPractice.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MathPractice\MathPractice\obj\Debug\MathPractice.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MathPractice\MathPractice\obj\Debug\MathPractice.pdb

@@ -1,0 +1,16 @@
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\bin\Debug\net5.0\Clinheritance.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\bin\Debug\net5.0\Clinheritance.deps.json
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\bin\Debug\net5.0\Clinheritance.runtimeconfig.json
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\bin\Debug\net5.0\Clinheritance.runtimeconfig.dev.json
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\bin\Debug\net5.0\Clinheritance.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\bin\Debug\net5.0\ref\Clinheritance.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\bin\Debug\net5.0\Clinheritance.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\obj\Debug\net5.0\Clinheritance.csproj.AssemblyReference.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\obj\Debug\net5.0\Clinheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\obj\Debug\net5.0\Clinheritance.AssemblyInfoInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\obj\Debug\net5.0\Clinheritance.AssemblyInfo.cs
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\obj\Debug\net5.0\Clinheritance.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\obj\Debug\net5.0\Clinheritance.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\obj\Debug\net5.0\ref\Clinheritance.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\obj\Debug\net5.0\Clinheritance.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\Clinheritance\Clinheritance\obj\Debug\net5.0\Clinheritance.genruntimeconfig.cache

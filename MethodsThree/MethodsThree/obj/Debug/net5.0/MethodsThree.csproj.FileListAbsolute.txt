@@ -1,0 +1,16 @@
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\bin\Debug\net5.0\MethodsThree.exe
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\bin\Debug\net5.0\MethodsThree.deps.json
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\bin\Debug\net5.0\MethodsThree.runtimeconfig.json
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\bin\Debug\net5.0\MethodsThree.runtimeconfig.dev.json
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\bin\Debug\net5.0\MethodsThree.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\bin\Debug\net5.0\ref\MethodsThree.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\bin\Debug\net5.0\MethodsThree.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\obj\Debug\net5.0\MethodsThree.csproj.AssemblyReference.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\obj\Debug\net5.0\MethodsThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\obj\Debug\net5.0\MethodsThree.AssemblyInfoInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\obj\Debug\net5.0\MethodsThree.AssemblyInfo.cs
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\obj\Debug\net5.0\MethodsThree.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\obj\Debug\net5.0\MethodsThree.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\obj\Debug\net5.0\ref\MethodsThree.dll
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\obj\Debug\net5.0\MethodsThree.pdb
+C:\Users\offic\OneDrive\Documents\GitHub\Basic_C#_Programs\MethodsThree\MethodsThree\obj\Debug\net5.0\MethodsThree.genruntimeconfig.cache
